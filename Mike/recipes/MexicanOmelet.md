@@ -59,7 +59,7 @@
 * Garnish with cilantro
 
 ## Resources
-[How to crack an egg](https://www.youtube.com/watch?v=Is5qnn2mjuM)
-[How to cut and seed jalapenos](https://www.youtube.com/watch?v=8VJ7mE2yCfo)
-[How to cut a bell pepper](https://www.youtube.com/watch?v=hZGqtmwboHU)
-[How to cook an omelet](https://www.youtube.com/watch?v=y-Wr401Bio4)
+* [How to crack an egg](https://www.youtube.com/watch?v=Is5qnn2mjuM)
+* [How to cut and seed jalapenos](https://www.youtube.com/watch?v=8VJ7mE2yCfo)
+* [How to cut a bell pepper](https://www.youtube.com/watch?v=hZGqtmwboHU)
+* [How to cook an omelet](https://www.youtube.com/watch?v=y-Wr401Bio4)
